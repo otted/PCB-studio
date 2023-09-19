@@ -8,7 +8,7 @@ Reproduce the Arduino electronic structure on a breadboard. Feels a bit like a r
 Basic instructions I had to go through
 * Pick the single components and understand what they are and how they work
 * Understand the functioning of the breadboard
-* Follow the steps to place the components one by one and understand/take notes of how they stay together. For this task, we followed the process illustrated [in this tutorial(https://www.digikey.com/en/maker/projects/build-your-own-arduino-breadboard/f243b09293ae4e3189bda47a821bb97a)]
+* Follow the steps to place the components one by one and understand/take notes of how they stay together. For this task, we followed the process illustrated in this tutorial(https://www.digikey.com/en/maker/projects/build-your-own-arduino-breadboard/f243b09293ae4e3189bda47a821bb97a)
 
 ![Here an example of the description of components I studied this week](./images/example-components.png)
 
