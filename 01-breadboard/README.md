@@ -1,7 +1,8 @@
 # Assignment's Title
+Baking breadboard
 
 ## Assignment's description
-Describe the assignment
+Reproduce the Arduino electronic structure on a breadboard
 
 ## Documentation
 Describe the work you did to complete the assignment
