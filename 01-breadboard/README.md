@@ -13,9 +13,14 @@ Basic instructions I had to go through
 ![Here an example of the description of components I studied this week](./images/example-components.png)
 
 This is the list of the components we used
-1. Crystal
-2. item two
-3. item three
+1. Resistor
+2. Electrolytic capacitor 
+3. Voltage regulator (transistor)
+4. Microcontroller (ATMega328p)
+5. Ceramic capacitor
+6. LED diode
+7. Crystal Oscillator
+8. Pin headers and jumper wires
 
 We first analysed the Arduino board trying to locate the components we were using. I tried to keep up with a sketch about the position and descriptions to clarify the structure in my mind
 **upload the image from notebook**
